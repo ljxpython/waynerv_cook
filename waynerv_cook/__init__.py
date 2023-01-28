@@ -2,4 +2,4 @@
 
 __author__ = """ljx"""
 __email__ = 'ljx.text'
-__version__ = '0.3.1'
+__version__ = '0.3.2'
