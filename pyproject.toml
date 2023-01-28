@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 name = "waynerv_cook"
-version = "0.3.0"
+version = "0.3.1"
 homepage = "https://github.com/ljxPython/waynerv_cook"
 description = "学习waynerv的cook."
 authors = ["ljxpython <1030470148@qq.com>"]
